@@ -1,3 +1,7 @@
-# Template's Package Template
-This is a template repo to facilitate the creation of new template packages for Text generator Plugin.
-# [How to create Templates package](https://text-gen.com/share-a-new-template-package)
+# Experimental Package Templates
+* You need to [configure OpenAI Key](https://text-gen.com/configure-api-key)
+
+# Prompts 
+| Prompt          | Usage                                                    |
+| --------------- | -------------------------------------------------------- |
+| conceptLinker   | Generate notes and link them from the current note's words |
