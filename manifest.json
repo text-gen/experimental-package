@@ -1,7 +1,7 @@
 {
     "packageId": "Experimental",
     "name": "Experimental Package",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "minTextGeneratorVersion": "0.6.6",
     "description": "Contains experimental templates",
     "author": "Noureddine",
